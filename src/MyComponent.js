@@ -17,7 +17,7 @@ const MyComponent = ({name,favoriteNumber,children}) =>{
  */
     
 MyComponent.defaultProps = {
-  name : '기본 이름'
+  name : "기본 이름"
 };
 /**
  * defaultProps

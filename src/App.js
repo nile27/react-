@@ -6,7 +6,7 @@ const App = () => {
     </MyComponent>
     )
 }
-//<MyComponent name = 'react'/> props 설정
+//<MyComponent name = 'react'/>props 설정
 
 export default App
 
